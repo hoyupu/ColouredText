@@ -1,0 +1,21 @@
+/**
+* @name ColouredText
+* @author Rabbite#6969
+* @description A little addition designed to spice up your discord messages with gradiated text!
+* @version 1.0
+*/
+@import url("https://hoyupu.github.io/ColouredText/main.css");
+
+/*Gradient starts at colour two due to how Discord handles channel lists.*/
+.theme-dark {
+  --colour-1: #FEC4DF;
+  --colour-2: #EFC8F3;
+  --colour-3: #D2D0FC;
+  --colour-4: #B0DAF6;
+  --colour-5: #9AE1E3;
+  --colour-6: #9FE2C9;
+  --colour-7: #B8DFB2;
+  --colour-8: #D6D8A7;
+  --colour-9: #EFCFAF;
+  --colour-10: #FDC7C5;
+}
