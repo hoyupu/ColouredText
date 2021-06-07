@@ -30,4 +30,5 @@ div.contents-2mQqc9 div, .slateContainer-3Qkn2x div div, .embedAuthor-3l5luH.emb
 }
 .headerText-3Uvj1Y span:nth-child(2){
     color: transparent!important;
+    filter: brightness(1)!important;
 }
