@@ -12,7 +12,7 @@
 }
 
 div.contents-2mQqc9 div, .slateContainer-3Qkn2x div div, .embedAuthor-3l5luH.embedMargin-UO5XwE a, .embedDescription-1Cuq9a.embedMargin-UO5XwE, .embedFieldName-NFrena, .embedFieldValue-nELq2s, .embedFooter-3yVop-.embedMargin-UO5XwE span, .embedTitle-3OXDkz.embedMargin-UO5XwE, .header-23xsNx *, 
-.headerText-3Uvj1Y span:nth-child(2){
+.headerText-3Uvj1Y span:nth-child(2), .contents-2mQqc9 div code.inline{
     color: transparent;
     background-image: linear-gradient(to right, 
         var(--colour-1), 
@@ -28,6 +28,11 @@ div.contents-2mQqc9 div, .slateContainer-3Qkn2x div div, .embedAuthor-3l5luH.emb
     -webkit-background-clip: text;
     background-clip: text;
 }
+
+.contents-2mQqc9 div code
+
+{
+
 .headerText-3Uvj1Y span:nth-child(2){
     color: transparent!important;
     filter: brightness(1)!important;
