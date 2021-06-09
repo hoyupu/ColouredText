@@ -11,6 +11,19 @@
   --colour-10: #FDC7C5;
 }
 
+.theme-light {
+  --colour-1: #FEC4DF;
+  --colour-2: #EFC8F3;
+  --colour-3: #D2D0FC;
+  --colour-4: #B0DAF6;
+  --colour-5: #9AE1E3;
+  --colour-6: #9FE2C9;
+  --colour-7: #B8DFB2;
+  --colour-8: #D6D8A7;
+  --colour-9: #EFCFAF;
+  --colour-10: #FDC7C5;
+}
+
 div.contents-2mQqc9 div, .slateContainer-3Qkn2x div div, .embedAuthor-3l5luH.embedMargin-UO5XwE a, .embedDescription-1Cuq9a.embedMargin-UO5XwE, .embedFieldName-NFrena, .embedFieldValue-nELq2s, .embedFooter-3yVop-.embedMargin-UO5XwE span, .embedTitle-3OXDkz.embedMargin-UO5XwE, .header-23xsNx *, 
 .headerText-3Uvj1Y span:nth-child(2), .contents-2mQqc9 div code.inline{
     color: transparent;
